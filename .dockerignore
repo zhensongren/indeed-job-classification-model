@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+data/
+**/*.ipynb
+.gitignore
+**/*.csv
+**/*.json
+job_with_title.pkl
